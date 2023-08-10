@@ -1,0 +1,28 @@
+2023-08-10 21:48:00,051 : INFO :  asyncio : test_url_01: Opening Browser
+2023-08-10 21:48:12,554 : INFO :  asyncio : test_box_enable_02: Opening Browser
+2023-08-10 21:50:32,883 : INFO :  asyncio : test_url_01: Opening Browser
+2023-08-10 21:50:34,902 : INFO :  asyncio : test_url_01: test_url_01 is Passed 
+2023-08-10 21:50:46,486 : INFO :  asyncio : test_box_enable_02: Opening Browser
+2023-08-10 21:50:46,589 : INFO :  asyncio : test_box_enable_02: test_box_enable_02 is Passed 
+2023-08-10 21:51:13,120 : INFO :  asyncio : test_date_box_enable_03: test_date_box_enable_03 is Passed 
+2023-08-10 21:55:12,607 : INFO :  asyncio : test_add_task_disable_without_ip_04: test_add_task_disable_without_ip_04 is Failed 
+2023-08-10 21:55:24,191 : INFO :  asyncio : test_adding_task_05: Counting list of task before adding task
+2023-08-10 21:55:24,247 : INFO :  asyncio : test_adding_task_05: Adding Taskabcd
+2023-08-10 21:55:24,555 : INFO :  asyncio : test_adding_task_05: Adding dateabcd
+2023-08-10 21:55:24,841 : INFO :  asyncio : test_adding_task_05: Counting list of task before adding task
+2023-08-10 21:55:24,861 : INFO :  asyncio : test_adding_task_05: test_adding_task_05 is Passed 
+2023-08-10 21:55:33,951 : INFO :  asyncio : test_mark_task_done_06: test_mark_task_done_06 is Passed 
+2023-08-10 21:55:43,490 : INFO :  asyncio : test_delete_task_07: test_delete_task_07 is Failed 
+2023-08-10 22:05:18,336 : INFO :  asyncio : test_url_01: Opening Browser
+2023-08-10 22:05:20,346 : INFO :  asyncio : test_url_01: test_url_01 is Passed 
+2023-08-10 22:05:28,108 : INFO :  asyncio : test_box_enable_02: Opening Browser
+2023-08-10 22:05:28,186 : INFO :  asyncio : test_box_enable_02: test_box_enable_02 is Passed 
+2023-08-10 22:05:35,975 : INFO :  asyncio : test_date_box_enable_03: test_date_box_enable_03 is Passed 
+2023-08-10 22:05:44,382 : INFO :  asyncio : test_add_task_disable_without_ip_04: test_add_task_disable_without_ip_04 is Failed 
+2023-08-10 22:06:11,858 : INFO :  asyncio : test_adding_task_05: Counting list of task before adding task
+2023-08-10 22:06:12,127 : INFO :  asyncio : test_adding_task_05: Adding Task abcd
+2023-08-10 22:06:13,147 : INFO :  asyncio : test_adding_task_05: Adding date abcd
+2023-08-10 22:06:14,868 : INFO :  asyncio : test_adding_task_05: Counting list of task before adding task
+2023-08-10 22:06:14,932 : INFO :  asyncio : test_adding_task_05: test_adding_task_05 is Passed 
+2023-08-10 22:06:43,224 : INFO :  asyncio : test_mark_task_done_06: test_mark_task_done_06 is Passed 
+2023-08-10 22:07:04,863 : INFO :  asyncio : test_delete_task_07: test_delete_task_07 is Failed 
